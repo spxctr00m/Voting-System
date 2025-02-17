@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+lib/
+*.log
+*.swp
+foundry.toml.lock
